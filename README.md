@@ -6,9 +6,8 @@
 
 📫 How to reach me **kiranmajhi021@gmail.com**
 
-<h2 align="left">Skills</h2>
-<p align="left"></p>                                                                                      
-<br>core languages : python, Java, SQL<br>Frameworks : Django<br>Database : postgresql , MySQL<br>Tools : MS-office, Power BI<br>
+<h2 align="left">Skills</h2>                                                                                     
+<br>Core languages : python, Java, SQL<br>Frameworks : Django<br>Database : postgresql , MySQL<br>Tools : MS-office, Power BI<br>
 
 
 ### **Connect with me:**
